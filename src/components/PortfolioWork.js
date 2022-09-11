@@ -11,14 +11,11 @@ import ghost from "../Images/ghost.jpg"
 import "../index.css"
 
 
-function Portfolio() {
-    return (
-        <>
+function Portfolio() 
+{ 
+    return ( <>
+        
         <div className="content-Container" >
-
-
-
-
 
 
 
@@ -63,8 +60,6 @@ function Portfolio() {
                 <div class="caption">Ghost Work</div>
                 <a className="Link"href="https://www.lovethispic.com/uploaded_images/126801-Ghost-Dog.jpg" target="_blank" rel="noopener noreferrer">Click to view Project</a>
             </div>
-
-
 
 
 
