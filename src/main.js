@@ -2,10 +2,10 @@ import React, {useState} from 'react';
 import Header from "./components/Header";
 import Navbar from './components/Navbar';
 import About from './components/About';
-import PortfolioWork from './components/PortfolioWork'
-import Contact from './components/Contact'
-import Resume from './components/Resume'
-import Footer from './Footer';
+import PortfolioWork from './components/PortfolioWork';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 
 import "./index.css";
