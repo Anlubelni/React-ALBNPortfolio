@@ -1,14 +1,14 @@
 import React from "react";
 import "../index.css"
 
-function Navbar () {
+function Navbar ({setPage, About, PortfolioWork, Contact, Github}) {
     return (
     <>
         <div className="Navbar">
-             <button className="btn">About</button>
-             <button className="btn">Work Portfolio</button>
-             <button className="btn">Contact</button>
-             <button className="btn">Resume</button>
+             <button onClick={() => setPage (<About/>)} className="btn">About</button>
+             <button onClick={() => setPage (<PortfolioWork/>)}className="btn">Portfolio Work</button>
+             <button onClick={() => setPage (<Contact/>)}className="btn">Contact</button>
+             <button onClick={() => setPage (<Github/>)}className="btn">Github</button>
         </div>
     </>
     )
