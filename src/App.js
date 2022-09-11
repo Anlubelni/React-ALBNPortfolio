@@ -1,9 +1,9 @@
 
-import main from './main';
+import Main from './Main';
 
 function App() {
   return (
-    <main/>
+    <Main/>
   );
 }
 

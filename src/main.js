@@ -1,13 +1,13 @@
 import React from 'react';
-import header from "./components/header";
-import about from './components/about';
+import Header from "./components/Header";
+import About from './components/About';
 
 
 import "./index.css";
-export default function main() {
+export default function Main() {
     return(
         <div>
-        <header/>
+        <Header/>
         </div>
 )
 
