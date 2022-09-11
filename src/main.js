@@ -2,7 +2,9 @@ import React, {useState} from 'react';
 import Header from "./components/Header";
 import Navbar from './components/Navbar';
 import About from './components/About';
-
+import PortfolioWork from './components/PortfolioWork'
+import Contact from './components/Contact'
+import Resume from './components/Resume'
 
 
 import "./index.css";
@@ -13,11 +15,11 @@ export default function Main() {
 
             <Header/> 
                 <div className="Content-Container">
-            <Navbar 
-            setPage={setPage}
+            <Navbar setPage={setPage} 
             About={About} 
-            /*PortfolioWork={PortfolioWork} 
-            Contact={Contact} Github={Github} *//>
+            PortfolioWork={PortfolioWork} 
+            Contact={Contact} 
+            Resume={Resume} />
             {page}
                 </div>
 

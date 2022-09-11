@@ -8,7 +8,8 @@ function ContactForm() {
             <h1 className="contact">To get in contact with me...</h1>
                 <div>
 
-             //*Area for leaving their name, email, and message*/
+    
+    
                     <div className="name">Input your name:</div>
                     <input type="text" />
 
@@ -18,8 +19,9 @@ function ContactForm() {
                     <div className="message">Leave a Message here:</div>
                     <input type="text" />
 
-            //*Submit/save button 
+       
                      <button type="submit" id="submit">Submit</button>
+
 
 
                 </div>
