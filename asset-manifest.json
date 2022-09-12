@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-ALBNPortfolio/static/css/main.a874dff1.css",
+    "main.js": "/React-ALBNPortfolio/static/js/main.31c44811.js",
+    "static/media/movieMatesPic.jpg": "/React-ALBNPortfolio/static/media/movieMatesPic.8c78a356e428baf19bae.jpg",
+    "static/media/cdeRef.jpg": "/React-ALBNPortfolio/static/media/cdeRef.692b9695c0d0e4b17969.jpg",
+    "static/media/crimeWatch.png": "/React-ALBNPortfolio/static/media/crimeWatch.23d5298f41db490129fd.png",
+    "static/media/marigold1.jpg": "/React-ALBNPortfolio/static/media/marigold1.1f7447a02cbc6a7a886e.jpg",
+    "static/media/ehc.jpg": "/React-ALBNPortfolio/static/media/ehc.163dc0f19cf36d28aeb8.jpg",
+    "static/media/psswrdGen.jpg": "/React-ALBNPortfolio/static/media/psswrdGen.4e846c4baf226d832270.jpg",
+    "static/media/ghost.jpg": "/React-ALBNPortfolio/static/media/ghost.998c65da212e8385add6.jpg",
+    "index.html": "/React-ALBNPortfolio/index.html",
+    "main.a874dff1.css.map": "/React-ALBNPortfolio/static/css/main.a874dff1.css.map",
+    "main.31c44811.js.map": "/React-ALBNPortfolio/static/js/main.31c44811.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a874dff1.css",
+    "static/js/main.31c44811.js"
+  ]
+}
