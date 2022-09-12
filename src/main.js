@@ -17,7 +17,7 @@ export default function Main() {
 
     return(
             <div> 
-
+{/* Remember to place these in order! */}
 
                 <Header/> 
 
@@ -26,18 +26,20 @@ export default function Main() {
 
                     <div className="Content-Container">
                 <Navbar 
+
                     setPage={setPage} 
                     About={About} 
                     PortfolioWork={PortfolioWork} 
                     Contact={Contact} 
                     Resume={Resume} />
                 {page}
+
                     </div>
 
 
 
 
-
+{/* Reminder that I am not usinmg the footer for now */}
                 <Footer/>
               
             </div>

@@ -4,7 +4,7 @@ import crimeWatch from "../Images/crimeWatch.png"
 import ehc from "../Images/ehc.jpg"
 import movieMatesPic from "../Images/movieMatesPic.jpg"
 import psswrdGen from "../Images/psswrdGen.jpg"
-import ghost from "../Images/ghost.jpg"
+import ghost from "../Images/ghost.jpg"  //FURTHER EXPLANATION ABOUT THIS IS FURTHER DOWN
 
 
 
@@ -17,7 +17,7 @@ function Portfolio()
         
         <div className="content-Container" >
 
-
+{/* Need to adjust these sizes later on in CSS but for now i like scrolling down as opposed to sideways. The goal will be a full display of all in rectangular pairs. */}
 
             <div className="box1">
                 <img src={cdeRef} width="300rem" height= "200rem" alt="Logo" />
@@ -54,7 +54,7 @@ function Portfolio()
                 <a className="Link"href="https://anlubelni.github.io/Password-Generator/" target="_blank" rel="noopener noreferrer">Click to view Project</a>
             </div>
 
-
+{/* I WOULD LIKE TO CLARIFY THAT ALTHOUGH I DO HAVE WORK, NONE OF MY WORK FEELS NICE ENOUGH TO DISPLAY HERE....YET. GIVE ME TIME AND THIS WILL HAVE PROJECT 3 ONCE ITS DEPLOYED */}
             <div className="box6">
                 <img src={ghost} width="300rem" height= "200rem" alt="Logo" />
                 <div class="caption">Ghost Work</div>

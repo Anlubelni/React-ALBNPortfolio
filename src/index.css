@@ -31,16 +31,17 @@ body {
 }
 
 a {
-    color: #f8f3f0;
+    color: #700640;
     text-decoration: none;
 }
 
 p {
-    font-size: 45px;
+    font-size: 30px;
     padding: 20px;
     max-width: 80%;
+    color: #702d06;
+    ;
 }
-
 
 .About-Me {
     display: flex;
@@ -51,11 +52,28 @@ p {
     display: flex;
 }
 
-.Contact-Me {
-    display: flex;
+
+.caption {
+    color: #cb540d;
 }
 
-.Resume {
+.footer-text {
+    align-items: baseline;
+    font-size: 15px;
+    color: #cb540d;
+    padding: 30px;
+    clear: both;
+    font-style: oblique;
+    text-align: center;
+    
+
+}
+
+/* .Contact-Me {
+    display: flex;
+} */
+
+/* .Resume {
     display: flex;
 }
 
@@ -66,10 +84,10 @@ p {
     padding-left: 200px;
     padding-top: 200px;
     flex-wrap: wrap;
-}
+} */
 
 
-.Contact-Me ul {
+/* .Contact-Me ul {
     justify-content: space-between;
     display: flex;
     list-style:none;
@@ -78,16 +96,21 @@ p {
     padding-left: 200px;
     padding-top: 200px;
     flex-wrap: wrap;
-}
+} */
 
-.side-title {
+
+.Resume {
+    color: #080108;
+
+
+/* .side-title {
     padding: 250px;
     border: 4px;
     border-right-color: #0F4C5C;
     border-right-style: solid;
     font-size: 40px;
     font-weight: bold;
-    max-width: 60px;
+    max-width: 60px; */
 
 }
 
