@@ -6,6 +6,6 @@ just to style the website to a more modern look and less text.
 
 I commented most parts out unlike past projects because it really is a hard habit to create but I managed with this project at the very least.
 
-Here is a picture of the original portfolio and a ![LINK](https://anlubelni.github.io/React-ALBNPortfolio/) to the new one to see just how much and also how little it has changed! 
+Here is a picture of the original portfolio and a link ![https://anlubelni.github.io/React-ALBNPortfolio/](https://anlubelni.github.io/React-ALBNPortfolio/) to the new one to see just how much and also how little it has changed! 
 ![Screenshot](./src/Images/portfolio-screenshot.png)
 
